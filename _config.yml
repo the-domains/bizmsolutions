@@ -1,0 +1,14 @@
+layout_spectrum: 0.5808316916227341
+typography_spectrum: 0.3222019833046943
+color:
+  brandStrength: 0.23343038582243025
+  lightness: 0.8127117247786373
+  saturation: 0.015730710932984948
+  rhythmicContrast: 0.5930478353984654
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: BizMSolutions
